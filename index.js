@@ -18,6 +18,7 @@ const cors = require('cors'); // importando cors
 const allowedOrigins = [
     'https://cestsegtrabalho.com.br',
     'https://api.cestsegtrabalho.com.br',
+    'https://api.comunhaorara.com',
     'https://app.cestsegtrabalho.com.br',
     'http://localhost:3000'
 ];
